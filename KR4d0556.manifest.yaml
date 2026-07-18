@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR4d0556_000.yaml, hash: 'sha256:0a919b39cd3af902e4784a67bfaf8bb2a1782db344c4ac5b3d1f04f3c2cdf391'}
   - {seq: 1, filename: KR4d0556_001.yaml, hash: 'sha256:317637eeb40067b456f6cffe1e2efbf680b7b08fcdc12d8383741f2cd24d093b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0556_000.markers.yaml, hash: 'sha256:41322e3492376e34adeaa62fbfa941c06a09efbfed2dc11ccce0674f70e97b86'}
-  - {seq: 1, role: markers, filename: assets/KR4d0556_001.markers.yaml, hash: 'sha256:ea6a71fed559b8a5e6cddec0bfa073d030d4e9dd94e4612a5d027b004155c3dd'}
+  - {seq: 0, role: markers, filename: assets/KR4d0556_000.markers.yaml, hash: 'sha256:2c3214cdfd6ce2b7c5086fe1c6ef4c01d3bfef02b33ee2acbd9ac38c4f88773b'}
+  - {seq: 1, role: markers, filename: assets/KR4d0556_001.markers.yaml, hash: 'sha256:94e7d3de13543798b5bae176a23699d4996025330b77bb9062555a1bc2b58fea'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 青村遺稿
   type: section
   level: 1
-hash: sha256:521796871e3cb5c4bf49a437f5ae66c73ec59dc741fcd74ff6cdb1cc053b9c65
+hash: sha256:a6101e96330a5d9a25a4cd0603ff8cccf95ec0f1a8b4da7a79ee4acfcb73deb8
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
